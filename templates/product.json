@@ -44,6 +44,13 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "auctura_auction_product_mkiwyx": {
+          "type": "shopify://apps/auctura/blocks/auction_product/019cda43-5e99-7b81-9665-1a61c06a1e0c",
+          "settings": {
+            "show_heading": true,
+            "heading_text": "Auction"
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -104,6 +111,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "auctura_auction_product_mkiwyx",
         "buy_buttons",
         "description",
         "collapsible-row-0",

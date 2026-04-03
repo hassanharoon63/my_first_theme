@@ -198,6 +198,21 @@
         "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
         "settings": {}
+      },
+      "9545519277637935910": {
+        "type": "shopify://apps/kinect-hassan/blocks/chat-widget/019d4f03-52fc-70d9-b357-cd6732fa8f3c",
+        "disabled": false,
+        "settings": {
+          "display_mode": "page-shift",
+          "panel_width": 340,
+          "primary_color": "#000000",
+          "accent_color": "#4F46E5",
+          "brand_name": "",
+          "assistant_name": "Shopping Assistant",
+          "subtitle_text": "Your Personal Shopping Guide",
+          "welcome_message": "Hi! What are you looking for today?",
+          "conversation_starters": "New Arrivals, Best Sellers, Gift Ideas"
+        }
       }
     }
   },
